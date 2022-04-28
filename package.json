@@ -1,0 +1,27 @@
+{
+  "name": "alina_bot",
+  "version": "1.0.0",
+  "description": "alina_bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cregennan/Simple-Telegram-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cregennan/Simple-Telegram-Bot/issues"
+  },
+  "homepage": "https://github.com/Cregennan/Simple-Telegram-Bot#readme",
+  "dependencies": {
+    "firebase-admin": "^10.1.0",
+    "node-telegram-bot-api": "^0.57.0"
+  },
+  "devDependencies": {
+    "ngrok": "^4.3.1"
+  }
+}
